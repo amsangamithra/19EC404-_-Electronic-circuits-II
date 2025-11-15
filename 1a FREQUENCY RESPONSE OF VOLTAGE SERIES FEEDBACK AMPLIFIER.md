@@ -1,5 +1,5 @@
 ## Exp. No. 1(a)
-**Date:**  
+**Date:18.8.2025**  
 ## FREQUENCY RESPONSE OF VOLTAGE SERIES FEEDBACK AMPLIFIER
 <img width="1117" height="1192" alt="image" src="https://github.com/user-attachments/assets/53877086-6a31-494a-a6ac-e5746cacd3db" />
 <img width="778" height="1074" alt="image" src="https://github.com/user-attachments/assets/264fbf03-f65b-47f2-9ea4-879fb75144ee" />
@@ -44,4 +44,4 @@ The frequency response of the voltage-series feedback amplifier was studied. It 
 ---
 
 
-**End of Experiment**
+

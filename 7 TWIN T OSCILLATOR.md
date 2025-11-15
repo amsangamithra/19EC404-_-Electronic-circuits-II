@@ -8,7 +8,7 @@
 <img width="1917" height="961" alt="image" src="https://github.com/user-attachments/assets/8ba87f9a-3f5a-47a0-96c0-530be1ffc3a4" />
 
 # Output Graph
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/55c4eeac-ce44-4dc3-b111-366d2f31552a" />
+<img width="1264" height="637" alt="Screenshot 2025-11-15 084226" src="https://github.com/user-attachments/assets/e58e325a-3ca5-4239-8196-1d645ff7767e" />
 
 # Result
 Thus the Twin T oscillator by using the LTSpice software is generated successfully.
